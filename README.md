@@ -1,4 +1,4 @@
-# Taupe
+# Tap Taupe
 
 Petit jeu chasse taupe expérimental. J'ai fait ce jeu pour découvrir la bibliothèque de jeux 2D LibDGX.
 
